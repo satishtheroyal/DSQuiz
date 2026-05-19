@@ -59,3 +59,5 @@ Built for consulting inquiries — engineering colleges looking for similar plat
 **Satya Meda**
 - LinkedIn: [satya-meda](https://linkedin.com/in/satya-meda-829463318)
 - Instagram: [@satya.builds.ai](https://instagram.com/satya.builds.ai)
+- Portfolio: [satya.builds](https://satyabuildsai-portfolio.vercel.app/)
+
